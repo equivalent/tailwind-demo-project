@@ -3,9 +3,8 @@ https://tailwindcss.com/docs/installation
 ```
 npm install -D tailwindcss
 npx tailwindcss init
+npm run dev
 ```
-
-
 
 ### youtube
 
